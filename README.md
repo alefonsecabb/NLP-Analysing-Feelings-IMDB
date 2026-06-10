@@ -1,3 +1,5 @@
+🚧 UNDER CONSTRUCTION 🚧
+
 # NLP — Sentiment Analysis on IMDB Reviews (PT-BR)
 
 Sentiment analysis on Portuguese movie reviews using the IMDB PT-BR dataset from Kaggle.
